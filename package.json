@@ -27,7 +27,7 @@
     "commander": "2.20.0",
     "cross-fetch": "3.0.4",
     "debug": "4.1.1",
-    "elliptic": "6.5.0",
+    "elliptic": "6.5.3",
     "ethers": "4.0.33",
     "ethjs-account": "0.1.4",
     "ethjs-custom-signer": "1.1.1",
